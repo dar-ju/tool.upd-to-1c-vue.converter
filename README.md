@@ -8,6 +8,8 @@ Interface has changelable control fields with "code", "quantity" and "sum" which
 
 Used:
 
+- VUE3
+- Vite
 - Bootstrap interface
 - XLSX module
 
